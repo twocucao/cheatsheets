@@ -29,7 +29,7 @@ related_posts_group:
 search_form:
   default_placeholder: Search SIZE+ cheatsheets
   home_placeholder: Search...
-  prefix: devhints.io
+  prefix: twocucao.xyz
 
 comments_area:
   suffix: for this cheatsheet.
@@ -41,8 +41,8 @@ not_found:
   home: Back to home
 
 announcement:
-  id: 2017-10-26-twitter
+  id: 2018-06-03-github
   title: |
-    New: We're on Twitter ♥️
+    New: I'am on github ♥️
   body: |
     Follow [@twocucao](https://github.com/twocucao) on Github
